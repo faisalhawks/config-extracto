@@ -1,0 +1,5 @@
+streamlit>=1.34
+pytesseract
+opencv-python
+python-docx
+pillow
